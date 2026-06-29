@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3eq050/jc/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 題叢桂偶記後孟子曰盡信書則不如無書書豈可盡信乎將不可盡信乎信與不信唯在其人耳吾南陽先生之於學廣搜羅群籍苟有可以裨益醫事者雖後世之書取以備參考簸場粃糠淘汰鏐鐐用力之久瞭然多所發明如此篇先生三餘之間自録其所見聞凡若干卷二三兄弟校訂得二卷先上之梓此書一出四方之士知先生用心之篤玩味揣摩施之治則不亦仁術之一助乎刻成先生有命令豫題其末敢書數方以為之跋寬政十二年庚申秋門人大谷恭謹識諸子讀偶記談笑以為常問之則家大人之所著也今年諸子議而上木不肖幼未能讀讀不能解因木子虛之勸乞大人跋其尾云十一童男昌文謹撰
+  hash: sha256:456f9e2d6d6c6c064637a1db9bc8ce654584fe983e94bc85048cd8b53722411d
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3eq050_jc_000-d5.h1s1}
+metadata:
+  title: 叢桂偶記
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq050.xml
+hash: sha256:a82379b0cdc2fe7e611736ff8f03af782c8683ce7b6d5074accfab0360ac37e5

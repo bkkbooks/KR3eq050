@@ -1,0 +1,442 @@
+canonical_identifier: bkk:krp/KR3eq050/v1
+canonical_location: https://kanripo.org/bkk/KR3eq050/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 叢桂偶記
+  identifiers:
+    krp: KR3eq050
+  tags:
+    kr-categories: KR3eq
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq050.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq050_000.yaml, hash: 'sha256:a82379b0cdc2fe7e611736ff8f03af782c8683ce7b6d5074accfab0360ac37e5'}
+  - {seq: 1, filename: KR3eq050_001.yaml, hash: 'sha256:ff8f8a1c194a979e5f3b236632ebc3aa8a3c8368fad0008161daf6e1967e96a2'}
+  - {seq: 2, filename: KR3eq050_002.yaml, hash: 'sha256:8b9a4a8031e409856039d329556b292790a89284df9f2dce8a38da6e82a3aad7'}
+  - {seq: 0, filename: KR3eq050_000.yaml, hash: 'sha256:a82379b0cdc2fe7e611736ff8f03af782c8683ce7b6d5074accfab0360ac37e5'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq050_000.markers.yaml, hash: 'sha256:d2710b000f63e228c6ef136ebe0d3e6f73e3c02cebdea99dd73ff090b44b368f'}
+  - {seq: 1, role: markers, filename: assets/KR3eq050_001.markers.yaml, hash: 'sha256:45c101b3a6b9a0bd62daafbad5480f9660cb9eeadba30c69a15621844f0c860e'}
+  - {seq: 2, role: markers, filename: assets/KR3eq050_002.markers.yaml, hash: 'sha256:9622c4285b52b7a68df54fcc10273cdc26f0239204af833a6aad9e69e1514098'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq050_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 495
+  label: 敘
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq050_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 11261
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq050_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 2478
+  label: 張仲景
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq050_jc_001-d3d3
+    span:
+    - body
+    - 2478
+    - 2633
+  label: 神應侯
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq050_jc_001-d3d4
+    span:
+    - body
+    - 2633
+    - 3603
+  label: 厥
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq050_jc_001-d3d5
+    span:
+    - body
+    - 3603
+    - 4036
+  label: 白酒
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq050_jc_001-d3d6
+    span:
+    - body
+    - 4036
+    - 4212
+  label: 甘草粉蜜湯
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq050_jc_001-d3d7
+    span:
+    - body
+    - 4212
+    - 5309
+  label: 廣東人參
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq050_jc_001-d3d8
+    span:
+    - body
+    - 5309
+    - 6414
+  label: 風
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq050_jc_001-d3d9
+    span:
+    - body
+    - 6414
+    - 6547
+  label: 怪產
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq050_jc_001-d3d10
+    span:
+    - body
+    - 6547
+    - 7025
+  label: 吮癰
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq050_jc_001-d3d11
+    span:
+    - body
+    - 7025
+    - 7145
+  label: 吹霎
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq050_jc_001-d3d12
+    span:
+    - body
+    - 7145
+    - 7652
+  label: 曼陀羅花
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq050_jc_001-d3d13
+    span:
+    - body
+    - 7652
+    - 7835
+  label: 黴瘡秘錄
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq050_jc_001-d3d14
+    span:
+    - body
+    - 7835
+    - 8317
+  label: 牛黃清心丸
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq050_jc_001-d3d15
+    span:
+    - body
+    - 8317
+    - 10235
+  label: 傷寒
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq050_jc_001-d3d16
+    span:
+    - body
+    - 10235
+    - 11261
+  label: 五毒五藥
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq050_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 11592
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eq050_jc_002-d4d2
+    span:
+    - body
+    - 2
+    - 1225
+  label: 伊吹艾草
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq050_jc_002-d4d3
+    span:
+    - body
+    - 1225
+    - 1599
+  label: 生生乳
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq050_jc_002-d4d4
+    span:
+    - body
+    - 1599
+    - 1710
+  label: 產婦側臥
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq050_jc_002-d4d5
+    span:
+    - body
+    - 1710
+    - 2260
+  label: 人勢
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq050_jc_002-d4d6
+    span:
+    - body
+    - 2260
+    - 3605
+  label: 蠱
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq050_jc_002-d4d7
+    span:
+    - body
+    - 3605
+    - 4115
+  label: 貓鬼野道
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq050_jc_002-d4d8
+    span:
+    - body
+    - 4115
+    - 4559
+  label: 水腫
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq050_jc_002-d4d9
+    span:
+    - body
+    - 4559
+    - 4991
+  label: 菌毒
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq050_jc_002-d4d10
+    span:
+    - body
+    - 4991
+    - 5183
+  label: 黃龍湯
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq050_jc_002-d4d11
+    span:
+    - body
+    - 5183
+    - 6082
+  label: 黃胖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq050_jc_002-d4d12
+    span:
+    - body
+    - 6082
+    - 6486
+  label: 母多足
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq050_jc_002-d4d13
+    span:
+    - body
+    - 6486
+    - 6656
+  label: 祭神農
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq050_jc_002-d4d14
+    span:
+    - body
+    - 6656
+    - 7521
+  label: 痘神
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq050_jc_002-d4d15
+    span:
+    - body
+    - 7521
+    - 9255
+  label: 痘瘡
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq050_jc_002-d4d16
+    span:
+    - body
+    - 9255
+    - 9683
+  label: 素問評
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq050_jc_002-d4d17
+    span:
+    - body
+    - 9683
+    - 9778
+  label: 一具
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq050_jc_002-d4d18
+    span:
+    - body
+    - 9778
+    - 9997
+  label: 吹奶
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq050_jc_002-d4d19
+    span:
+    - body
+    - 9997
+    - 10288
+  label: 畏疫
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq050_jc_002-d4d20
+    span:
+    - body
+    - 10288
+    - 10473
+  label: 假作正月
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq050_jc_002-d4d21
+    span:
+    - body
+    - 10473
+    - 10727
+  label: 知雨霽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq050_jc_002-d4d22
+    span:
+    - body
+    - 10727
+    - 11110
+  label: 鴟梟鵂
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq050_jc_002-d4d23
+    span:
+    - body
+    - 11110
+    - 11592
+  label: 饑饉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq050_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 244
+  label: 題叢桂偶記後
+  type: section
+  level: 1
+hash: sha256:ef5a21dddbcb336efd542aef233873ac969a2fa6734ddf12a949526902f027fb
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
