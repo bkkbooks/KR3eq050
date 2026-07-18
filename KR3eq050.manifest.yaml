@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3eq050_000.yaml, hash: 'sha256:86532e98a91d5db67acec607674585b7070ce8d0915235cabefdbc0ecc4e2c98'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3eq050_000.markers.yaml, hash: 'sha256:0732d9bf86ef377695036d44bd7e466ad620dadf64e8b54a9e349dc5c1f87433'}
-  - {seq: 1, role: markers, filename: assets/KR3eq050_001.markers.yaml, hash: 'sha256:6c7fed89a6393f59bc2ae09006628e8cbd4d85d558554ae5e3178897b5ea86b0'}
-  - {seq: 2, role: markers, filename: assets/KR3eq050_002.markers.yaml, hash: 'sha256:2127758dbd912b8df4447fe5680c8ca445ac3b0b38c6662c2f8433eacfff1105'}
+  - {seq: 1, role: markers, filename: assets/KR3eq050_001.markers.yaml, hash: 'sha256:9af21d34ecae93c9a56d437e2b52ab004821dfbf1071ac071f0a92b5fce40d1d'}
+  - {seq: 2, role: markers, filename: assets/KR3eq050_002.markers.yaml, hash: 'sha256:47b62772a59701ab0077f17790dc2c0643ecf8890b4207e8805bad1cf5e2485c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -436,7 +436,7 @@ table_of_contents:
   label: 題叢桂偶記後
   type: section
   level: 1
-hash: sha256:7e8d666c62eb0e17a70bbe5d099ce40bac17ca442969e1486dc24f1ee800d6a8
+hash: sha256:81014d07cefdb2e64a0085f44264b91f5baa9fba6477f001442e281c1560c32a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
